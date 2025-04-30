@@ -14,3 +14,12 @@ def somardoisnumeros(numero01,numero02):
     return print(resultado)
 
 somardoisnumeros(6, 8)
+
+def cadastrar(nome, idade):
+    data = {
+    "nome": nome,
+    "idade": idade
+    }
+    
+    return print(data)
+    (Flavia) (16)
